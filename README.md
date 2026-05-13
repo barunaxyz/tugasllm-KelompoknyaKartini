@@ -33,17 +33,17 @@ Proyek ini adalah script Python sederhana untuk merangkum teks menggunakan model
 
 ### Hasil Eksperimen Berdasarkan Temperature
 
-#### Temperature = 0.1 (Faktual & Konsisten)
+#### Temperature = 0.1 
 > Berikut adalah ringkasan konten tentang Institut Teknologi Sumatera (ITERA):
 >
 > ITERA adalah perguruan tinggi negeri di Lampung Selatan yang berdiri pada tahun 2014. Kampus ini dirancang sebagai pusat pengembangan ilmu pengetahuan, teknologi, dan inovasi untuk mendukung pembangunan Sumatera. ITERA memiliki konsep "Smart, Friendly, and Forest Campus" dengan lingkungan kampus yang luas dan modern. Kampus ini menawarkan berbagai program studi di bidang teknik, teknologi, dan sains, serta memiliki visi untuk menjadi institut teknologi terbaik di Sumatera. ITERA juga menekankan pengembangan karakter mahasiswa melalui organisasi, penelitian, inovasi, dan kegiatan sosial. Dengan kombinasi antara lingkungan kampus yang luas dan fokus pada teknologi modern, ITERA memiliki potensi besar dalam mencetak generasi muda unggul di bidang sains dan teknologi.
 
-#### Temperature = 0.7 (Seimbang)
+#### Temperature = 0.7 
 > Berikut adalah ringkasan dari konten tersebut:
 >
 > Institut Teknologi Sumatera (ITERA) adalah perguruan tinggi negeri di Lampung Selatan yang berfokus pada sains dan teknologi. ITERA didirikan pada tahun 2014 dan dirancang sebagai pusat pengembangan ilmu pengetahuan, teknologi, dan inovasi untuk mendukung pembangunan Sumatera. Kampus ini memiliki area yang luas dengan konsep "Smart, Friendly, and Forest Campus" dan menawarkan berbagai program studi di bidang teknik, teknologi, dan sains. ITERA memiliki visi untuk menjadi institut teknologi terbaik di Sumatera dan mampu bersaing secara nasional, serta menekankan pengembangan karakter mahasiswa melalui organisasi, penelitian, inovasi, dan kegiatan sosial.
 
-#### Temperature = 1.2 (Kreatif & Lebih Variatif)
+#### Temperature = 1.2 
 > Berikut adalah ringkasan dari konten tersebut:
 >
 > Institut Teknologi Sumatera (ITERA) adalah perguruan tinggi negeri yang terletak di Lampung Selatan, didirikan pada tahun 2014. ITERA difokuskan pada pendidikan teknologi berkualitas dan memiliki visi untuk menjadi institut teknologi terbaik di Sumatera. Kampus ini dikenal dengan lingkungan yang luas dan modern, serta memiliki berbagai program studi di bidang teknik, teknologi, dan sains. ITERA memiliki potensi besar dalam mencetak generasi muda unggul di bidang sains dan teknologi melalui kombinasi antara pendidikan akademik, organisasi, penelitian, inovasi, dan kegiatan sosial.
