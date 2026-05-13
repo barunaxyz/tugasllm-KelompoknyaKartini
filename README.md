@@ -1,4 +1,4 @@
-# NLP Text Summarizer dengan LLaMA 3.3
+# Tugas A
 
 Proyek ini adalah script Python sederhana untuk merangkum teks menggunakan model **LLaMA 3.3 (70B Versatile)** melalui Groq API. Program ini dibuat secara interaktif sehingga pengguna dapat memasukkan teks panjang (multiline) yang ingin diringkas, lalu membandingkan hasil ringkasan berdasarkan tingkat kreativitas model (*Temperature*).
 
