@@ -7,39 +7,24 @@ Proyek ini adalah script Python sederhana untuk merangkum teks menggunakan model
 - **Eksperimen Temperature**: Menguji 3 tingkat `temperature` (0.1, 0.7, dan 1.2) secara bersamaan untuk melihat pengaruhnya terhadap gaya bahasa dan panjang ringkasan teks.
 - **Tracking Token**: Menampilkan jumlah penggunaan token (prompt & completion) untuk tiap pengujian.
 
-## Instalasi & Persiapan
+## Persiapan
 
-1. **Clone repository ini**
-   ```bash
-   git clone https://github.com/barunaxyz/tugasllm-KelompoknyaKartini.git
-   cd tugasllm-KelompoknyaKartini
-   ```
-
-2. **Buat Virtual Environment (Sangat Disarankan)**
+1. **Buat Virtual Environment (Sangat Disarankan)**
    ```bash
    python -m venv venv
    venv\Scripts\activate
    ```
 
-3. **Instal Dependensi**
+2. **Instal Dependensi**
    ```bash
    pip install -r requirements.txt
    ```
 
-4. **Atur API Key**
+3. **Atur API Key**
    Buat file bernama `.env` di dalam folder proyek, lalu isi dengan API Key Groq Anda:
    ```env
    GROQ_API_KEY=gsk_xxxxxxxxxxxxxxxxxxx
    ```
-
-## Cara Penggunaan
-Jalankan script Python berikut di terminal Anda:
-```bash
-python tugas.py
-```
-Masukkan teks yang ingin diringkas. Setelah selesai memasukkan teks, tekan **Enter** lalu ketik kata `SELESAI` di baris baru untuk memproses ringkasan.
-
----
 
 ## Contoh Eksperimen (Tugas A)
 
