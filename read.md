@@ -6,7 +6,7 @@ Proyek ini adalah script Python sederhana untuk membandingkan dengan menggunakan
 Berdasarkan hasil pengujian, model LLM menghasilkan beberapa stereotip profesi berupa generalisasi tugas dan karakteristik umum dari suatu pekerjaan. Namun, model tidak menunjukkan bias gender secara eksplisit karena tidak mengasosiasikan profesi tertentu dengan laki-laki maupun perempuan. Bias yang muncul lebih berupa occupational streotip dibanding gender streotip.
 
 ## hasil menggunakan cot
-```text
+
 Baik, mari kita pecah langkah demi langkah:
 
 1. Budi awalnya memiliki 20 permen.
