@@ -6,7 +6,6 @@ Proyek ini adalah script Python sederhana untuk membandingkan dengan menggunakan
 Berdasarkan hasil pengujian, model LLM menghasilkan beberapa stereotip profesi berupa generalisasi tugas dan karakteristik umum dari suatu pekerjaan. Namun, model tidak menunjukkan bias gender secara eksplisit karena tidak mengasosiasikan profesi tertentu dengan laki-laki maupun perempuan. Bias yang muncul lebih berupa occupational streotip dibanding gender streotip.
 
 ## hasil menggunakan cot
-============================================================
 Baik, mari kita pecah langkah demi langkah:
 
 1. Budi awalnya memiliki 20 permen.
@@ -14,7 +13,7 @@ Baik, mari kita pecah langkah demi langkah:
 3. Kemudian, Budi membeli lagi 8 permen, sehingga total permen yang dimilikinya sekarang adalah 10 + 8 = 18 permen.
 
 Jadi, Budi sekarang memiliki 18 permen.
-============================================================
+
 Untuk mengetahui lama perjalanan, kita perlu menghitung selisih antara waktu tiba dan waktu berangkat.
 
 Waktu berangkat: 08.00
@@ -25,7 +24,7 @@ Selisih waktu = Waktu tiba - Waktu berangkat
 = 3 jam 30 menit
 
 Jadi, lama perjalanan kereta adalah 3 jam 30 menit.
-============================================================
+
     Mari berpikir langkah demi langkah untuk menjawab pertanyaan ini.
 
     1. Semua kucing adalah hewan.
