@@ -1,4 +1,4 @@
-# Tugas A
+# Tugas C
 
 Proyek ini adalah script Python sederhana untuk membandingkan dengan menggunakan uji chain-of-thought dan tanpa uji chain-of-thoght dan melihat streotip yang muncul ketika dijalankan di llm dengan menggunakan model **LLaMA 3.3 (70B Versatile)** melalui Groq API. 
 
